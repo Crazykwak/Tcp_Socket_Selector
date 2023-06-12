@@ -1,0 +1,12 @@
+
+# iml file
+*.iml
+
+# class
+*.class
+
+# folder
+out
+.idea
+
+
